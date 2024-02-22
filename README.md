@@ -8,7 +8,7 @@ Proyek ini menyediakan analisis mendalam mengenai dataset penyewaan sepeda. Anal
 ## Penulis
 - **Nama:** Ahmad Bujai Rimi
 - **Email:** [ahmadbujai20@gmail.com](mailto:ahmadbujai20@gmail.com)
-- **Profil Dicoding:** [Akademi Dicoding](https://www.dicoding.com/users/bujai_rimi/academies)
+- **Profil Dicoding:** [Dicoding Indonesia](https://www.dicoding.com/users/bujai_rimi/academies)
 
 ## Berkas
 - `Proyek_Analisis_Data.ipynb`: Notebook Jupyter yang berisi analisis data.
