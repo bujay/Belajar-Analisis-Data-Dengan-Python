@@ -20,7 +20,7 @@ Proyek ini menyediakan analisis mendalam mengenai dataset penyewaan sepeda. Anal
 - **Tren Tahunan**: Pengguna terdaftar secara konsisten menyewa lebih banyak sepeda sepanjang tahun, dengan peningkatan yang signifikan pada pengguna kasual selama bulan-bulan musim panas.
 
 ## Cara Menjalankan
-- Notebook Jupyter dapat dilihat langsung di GitHub atau dijalankan dalam lingkungan yang mendukung Notebook IPython.
+- Notebook Jupyter dapat dilihat langsung di GitHub atau dijalankan dalam lingkungan yang mendukung Jupyter Notebook Python.
 - Dashboard Streamlit dapat dijalankan secara lokal dengan navigasi ke direktori `dashboard/` dan menjalankan `streamlit run dashboard.py`.
 
 ## Dashboard
@@ -29,3 +29,19 @@ Dashboard Streamlit mencakup fitur-fitur berikut:
 - Visualisasi yang menjawab pertanyaan bisnis kunci.
 - Analisis komparatif penyewaan sepeda pada hari kerja dan akhir pekan.
 - Analisis tren penyewaan sepeda sepanjang tahun.
+
+## Kebutuhan dan Instalasi
+
+Proyek ini memerlukan pustaka-pustaka berikut untuk berjalan dengan baik:
+
+- Matplotlib
+- NumPy
+- Pandas
+- Plotly
+- Seaborn
+- Streamlit
+
+Kamu dapat menginstal semua pustaka yang diperlukan dengan menjalankan perintah berikut di terminal atau command prompt:
+
+```bash
+pip install matplotlib numpy pandas plotly seaborn streamlit
