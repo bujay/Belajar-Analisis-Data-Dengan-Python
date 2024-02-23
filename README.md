@@ -34,12 +34,12 @@ Dashboard Streamlit mencakup fitur-fitur berikut:
 
 Proyek ini memerlukan pustaka-pustaka berikut untuk berjalan dengan baik:
 
-- Matplotlib
-- NumPy
-- Pandas
-- Plotly
-- Seaborn
-- Streamlit
+- Matplotlib 3.8.3
+- NumPy 1.26.4
+- Pandas 2.2.0
+- Plotly 5.19.0
+- Seaborn 0.13.2
+- Streamlit 1.31.1
 
 Kamu dapat menginstal semua pustaka yang diperlukan dengan menjalankan perintah berikut di terminal atau command prompt:
 
